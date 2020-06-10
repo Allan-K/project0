@@ -57,6 +57,7 @@ table, th, td{
 	font-family: sans-serif;
 	width: 100%;
 	background-color: white;
+
 }
 
 th{
@@ -64,12 +65,14 @@ th{
 }
 td{
 	width: 25%;
-	padding: 3px;
+	padding: 3px;	
+	color: black;
 }
 
 a:link, a:visited, a:active{
-	color:black;
+	color:green;
 	text-decoration:none;
+
 }
 a:hover{
 	color:blue;
