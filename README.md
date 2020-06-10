@@ -21,7 +21,7 @@ Personal.html
 Page containing information about the website subject.  This page contains a javascript 'accordion'
 
 Hobbies.html
-Page containing information about the website subjects interests
+Page containing information about the website subjects interests.  This page uses SCCS variables including inheritance
 
 Career.html
 Page containing information about the website subjects career choices.  This page contains an unordered list of the schools I have attended
